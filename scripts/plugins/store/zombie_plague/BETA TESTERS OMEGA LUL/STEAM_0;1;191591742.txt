@@ -1,0 +1,3 @@
+// favoriCRAFT303
+Ammopacks = 53
+Zombieclass = 0

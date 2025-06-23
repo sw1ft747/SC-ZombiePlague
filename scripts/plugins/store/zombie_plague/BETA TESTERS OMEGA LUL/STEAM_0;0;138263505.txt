@@ -1,0 +1,3 @@
+// Red Fire
+Ammopacks = 20
+Zombieclass = 0

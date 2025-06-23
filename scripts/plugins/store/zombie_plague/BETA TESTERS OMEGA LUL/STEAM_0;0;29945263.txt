@@ -1,0 +1,3 @@
+// frizzy
+Ammopacks = 37
+Zombieclass = 1

@@ -1,0 +1,3 @@
+// QEES51
+Ammopacks = 62
+Zombieclass = 0

@@ -1,0 +1,3 @@
+// inert
+Ammopacks = 3
+Zombieclass = 0

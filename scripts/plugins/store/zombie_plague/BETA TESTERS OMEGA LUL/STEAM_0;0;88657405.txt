@@ -1,0 +1,3 @@
+// lolniger1
+Ammopacks = 6
+Zombieclass = 0

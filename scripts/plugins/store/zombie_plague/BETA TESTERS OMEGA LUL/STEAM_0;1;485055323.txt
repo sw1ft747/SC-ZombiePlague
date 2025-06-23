@@ -1,0 +1,3 @@
+// BotSkipper
+Ammopacks = 89
+Zombieclass = 1

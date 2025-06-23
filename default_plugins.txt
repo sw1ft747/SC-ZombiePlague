@@ -1,0 +1,34 @@
+//========================================
+//
+//	This file lists all plugins that are loaded by the game
+//	Plugins use Angelscript
+//
+//========================================
+"plugins"
+{
+	"plugin"
+	{
+		"name" "ZP"
+		"script" "zombie_plague/zombie_plague"
+	}
+	"plugin"
+	{
+		"name" "DynamicDifficulty"
+		"script" "DynamicDifficulty"
+	}
+	"plugin"
+	{
+		"name" "AntiSpam"
+		"script" "AntiSpam"
+	}
+	"plugin"
+	{
+		"name" "ChatMessager"
+		"script" "ChatMessager"
+	}
+	"plugin"
+	{
+		"name" "AntiBlock"
+		"script" "AntiBlock"
+	}
+}

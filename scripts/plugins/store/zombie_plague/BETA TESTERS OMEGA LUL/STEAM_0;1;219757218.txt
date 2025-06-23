@@ -1,0 +1,3 @@
+// Mamm0n
+Ammopacks = 0
+Zombieclass = 0

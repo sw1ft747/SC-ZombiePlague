@@ -1,0 +1,3 @@
+// ds
+Ammopacks = 21
+Zombieclass = 1

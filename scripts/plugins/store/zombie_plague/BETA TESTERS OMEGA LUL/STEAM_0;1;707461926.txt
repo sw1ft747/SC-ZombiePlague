@@ -1,0 +1,3 @@
+// xDoCoT
+Ammopacks = 25
+Zombieclass = 0

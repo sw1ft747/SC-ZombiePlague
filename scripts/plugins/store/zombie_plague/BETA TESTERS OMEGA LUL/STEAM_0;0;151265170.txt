@@ -1,0 +1,3 @@
+// Caudillo
+Ammopacks = 57
+Zombieclass = 0

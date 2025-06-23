@@ -1,0 +1,3 @@
+// cba
+Ammopacks = 15
+Zombieclass = 1

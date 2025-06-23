@@ -1,0 +1,3 @@
+// 5L5c17
+Ammopacks = 35
+Zombieclass = 0

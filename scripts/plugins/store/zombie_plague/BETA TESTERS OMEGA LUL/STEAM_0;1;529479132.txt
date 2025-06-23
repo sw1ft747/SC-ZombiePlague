@@ -1,0 +1,3 @@
+// Scar
+Ammopacks = 86
+Zombieclass = 0

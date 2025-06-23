@@ -1,0 +1,3 @@
+// titration
+Ammopacks = 10
+Zombieclass = 0

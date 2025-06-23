@@ -1,0 +1,3 @@
+// HAARPER
+Ammopacks = 21
+Zombieclass = 0

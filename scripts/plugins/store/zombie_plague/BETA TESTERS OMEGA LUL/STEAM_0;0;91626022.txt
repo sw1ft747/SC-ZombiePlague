@@ -1,0 +1,3 @@
+// Obama bin Laden
+Ammopacks = 4
+Zombieclass = 0

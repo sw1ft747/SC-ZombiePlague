@@ -1,0 +1,3 @@
+// gayniggertwerk
+Ammopacks = 1
+Zombieclass = 0

@@ -1,0 +1,3 @@
+// CptSheep
+Ammopacks = 11
+Zombieclass = 0

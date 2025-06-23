@@ -1,0 +1,3 @@
+// ツ.LoOper.ツ.CherNobYL.ツ
+Ammopacks = 17
+Zombieclass = 0

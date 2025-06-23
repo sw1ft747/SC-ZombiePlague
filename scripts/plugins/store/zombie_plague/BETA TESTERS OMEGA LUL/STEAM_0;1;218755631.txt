@@ -1,0 +1,3 @@
+// Sw1ft
+Ammopacks = 5
+Zombieclass = 4

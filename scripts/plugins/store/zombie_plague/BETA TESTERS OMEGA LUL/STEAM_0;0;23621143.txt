@@ -1,0 +1,3 @@
+// Aranimu
+Ammopacks = 2
+Zombieclass = 0

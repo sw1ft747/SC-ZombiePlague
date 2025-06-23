@@ -1,0 +1,3 @@
+// ialex
+Ammopacks = 8
+Zombieclass = 0

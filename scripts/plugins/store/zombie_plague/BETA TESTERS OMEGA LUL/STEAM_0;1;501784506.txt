@@ -1,0 +1,3 @@
+// Hornet
+Ammopacks = 7
+Zombieclass = 0

@@ -1,0 +1,3 @@
+// lukezz
+Ammopacks = 0
+Zombieclass = 0

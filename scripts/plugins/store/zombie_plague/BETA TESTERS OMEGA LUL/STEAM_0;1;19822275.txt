@@ -1,0 +1,3 @@
+// Microwaving a Toaster
+Ammopacks = 18
+Zombieclass = 1

@@ -1,0 +1,3 @@
+// NPS
+Ammopacks = 3
+Zombieclass = 3

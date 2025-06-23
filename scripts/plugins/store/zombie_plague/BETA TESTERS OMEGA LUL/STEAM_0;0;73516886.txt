@@ -1,0 +1,3 @@
+// GrafSativia
+Ammopacks = 77
+Zombieclass = 4

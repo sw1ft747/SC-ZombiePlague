@@ -1,0 +1,3 @@
+// Ameba
+Ammopacks = 21
+Zombieclass = 1

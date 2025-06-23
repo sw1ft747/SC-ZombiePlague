@@ -1,0 +1,3 @@
+// Reincarcare
+Ammopacks = 32
+Zombieclass = 3

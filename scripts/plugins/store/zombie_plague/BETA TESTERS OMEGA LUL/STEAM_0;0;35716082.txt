@@ -1,0 +1,3 @@
+// dawid hujcik
+Ammopacks = 1
+Zombieclass = 0

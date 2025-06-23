@@ -1,0 +1,3 @@
+// 独布勒维艾和
+Ammopacks = 10
+Zombieclass = 0

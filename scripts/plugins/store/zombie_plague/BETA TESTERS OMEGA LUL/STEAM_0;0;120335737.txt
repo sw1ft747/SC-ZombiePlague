@@ -1,0 +1,3 @@
+// Ryszard Wojcik
+Ammopacks = 0
+Zombieclass = 0

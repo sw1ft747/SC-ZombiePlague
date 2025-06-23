@@ -1,0 +1,3 @@
+// EmirTurkishGamer
+Ammopacks = 1
+Zombieclass = 0

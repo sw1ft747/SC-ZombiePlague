@@ -1,0 +1,3 @@
+// dram
+Ammopacks = 34
+Zombieclass = 4

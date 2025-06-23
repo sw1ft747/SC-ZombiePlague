@@ -1,0 +1,3 @@
+// Biscuit
+Ammopacks = 18
+Zombieclass = 1

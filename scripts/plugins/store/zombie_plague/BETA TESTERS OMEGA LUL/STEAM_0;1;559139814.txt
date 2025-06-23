@@ -1,0 +1,3 @@
+// kolokopos
+Ammopacks = 16
+Zombieclass = 0

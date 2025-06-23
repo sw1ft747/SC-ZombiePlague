@@ -1,0 +1,3 @@
+// vkasgo
+Ammopacks = 23
+Zombieclass = 0

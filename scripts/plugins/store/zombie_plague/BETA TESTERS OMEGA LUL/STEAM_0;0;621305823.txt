@@ -1,0 +1,3 @@
+// Antonio Montana
+Ammopacks = 1
+Zombieclass = 4
